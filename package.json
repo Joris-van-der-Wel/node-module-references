@@ -1,6 +1,6 @@
 {
   "name": "module-references",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Joris van der Wel <joris@jorisvanderwel.com>",
   "description": "Annotate file references within the source code of your node packages. These references can be scanned for using the dependency graph of a module. This package takes input from module-deps and generates a list of all the references.",
   "keywords": [
