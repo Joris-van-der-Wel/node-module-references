@@ -42,7 +42,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "detective": "^4.1.0",
+    "detective": "4.1.0",
     "inherits": "^2.0.1",
     "q": "^2.0.3",
     "q-io": "^1.13.1",
